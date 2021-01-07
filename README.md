@@ -1,2 +1,2 @@
 # PortfolioSite
-My Perosnal website
+My Personal website
